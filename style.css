@@ -57,7 +57,7 @@ body {
     filter: blur(1px);
     background-size: 5px 3px;
     mix-blend-mode: soft-light;
-    opacity: 0.5;
+    opacity: 0.25;
 }
 
 .aged-varnish {
