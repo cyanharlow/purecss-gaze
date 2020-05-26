@@ -1,4 +1,4 @@
-# Pure CSS Lace
+# Pure CSS Gaze
 
 An ongoing series in which I create art using only CSS and HTML.
 
