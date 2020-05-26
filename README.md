@@ -15,4 +15,4 @@ Because of the artistic nature of this project I have not concerned myself with 
 
 [cyanharlow.github.io/purecss-gaze](https://cyanharlow.github.io/purecss-gaze/)
 
-![alt text](https://raw.githubusercontent.com/cyanharlow/purecss-gaze/master/preview.jpg)
+![alt text](https://raw.githubusercontent.com/cyanharlow/purecss-gaze/master/preview.png)
